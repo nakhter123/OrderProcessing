@@ -1,0 +1,10 @@
+﻿symbol,side,type,price,timestamp
+AAPL,buy,limit,130.98,1608917401
+AMZN,buy,market,,1608917401
+TSLA,buy,limit,659.04,1608917403
+TSLA,sell,market,,1608917404
+TSLA,sell,limit,659.00,1608917405
+AAPL,sell,limit,130.44,1608917405
+AMZN,sell,market,,1608917405
+TSLA,buy,market,,1608917406
+AAPL,sell,market,,1608917406
